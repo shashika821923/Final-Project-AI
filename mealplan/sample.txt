@@ -1,0 +1,8 @@
+Name,Height_cm,Weight_kg,Meal_Plan,Foods
+John,175,70,Normal weight,"Lean proteins, whole grains, fruits, vegetables, healthy fats"
+Alice,160,55,Normal weight,"Lean proteins, whole grains, fruits, vegetables, healthy fats"
+Mike,180,85,Overweight,"Lean proteins, whole grains, fruits, vegetables, limited fats and sugars"
+Emma,165,60,Normal weight,"Lean proteins, whole grains, fruits, vegetables, healthy fats"
+Chris,185,90,Overweight,"Lean proteins, whole grains, fruits, vegetables, limited fats and sugars"
+Lisa,155,50,Underweight,"Lean proteins, whole grains, fruits, vegetables"
+Ryan,170,75,Overweight,"Lean proteins, whole grains, fruits, vegetables, limited fats and sugars"
