@@ -1,44 +1,44 @@
 Name,Height_cm,Weight_kg,Meal_Plan,Foods,cluster
-John,175,70,Normal weight,"Chicken breast, quinoa, apple, spinach, avocado, blueberries, broccoli, almonds, carrots, salmon",2
-Alice,160,55,Normal weight,"Salmon, brown rice, banana, kale, olive oil, strawberries, sweet potatoes, oats, pineapple, almonds",1
-Mike,180,85,Overweight,"Turkey breast, whole wheat bread, orange, broccoli, almond butter, mango, couscous, grapefruit, cauliflower, cashews",0
-Emma,165,60,Normal weight,"Tofu, barley, pear, carrots, coconut oil, kiwi, bell peppers, cucumber, oats, chicken thigh",1
-Chris,185,90,Overweight,"Lean beef, couscous, grapefruit, cauliflower, avocado, chicken breast, quinoa, apple, spinach, almonds",0
-Lisa,155,50,Underweight,"Egg whites, oats, berries, cucumber, hummus, blueberries, bananas, strawberries, spinach, almond butter",1
-Ryan,170,75,Overweight,"Pork loin, sweet potatoes, pineapple, green beans, cashews, turkey thigh, brown rice, mango, zucchini, avocado",2
-Diana,168,65,Normal weight,"Chicken thigh, quinoa, blueberries, bell peppers, olive oil, salmon, whole wheat bread, apple, kale, almond butter",2
-Matthew,177,78,Overweight,"Turkey thigh, whole wheat pasta, strawberries, zucchini, almond butter, lean beef, couscous, grapefruit, cauliflower, avocado",2
-Emily,163,57,Normal weight,"Tofu, brown rice, kiwi, asparagus, coconut oil, salmon, oats, banana, kale, almond butter",1
-David,190,95,Overweight,"Lean beef, barley, mango, broccoli, avocado, turkey breast, whole wheat bread, orange, spinach, almonds",0
-Jennifer,150,45,Underweight,"Egg whites, quinoa, raspberries, carrots, hummus, salmon, brown rice, banana, kale, olive oil",1
-Steven,172,72,Normal weight,"Chicken breast, whole wheat bread, orange, spinach, olive oil, tofu, barley, pear, carrots, coconut oil",2
-Jessica,158,52,Underweight,"Salmon, oats, apple, kale, almond butter, turkey breast, quinoa, apple, spinach, almonds",1
-Daniel,179,82,Overweight,"Turkey breast, quinoa, banana, broccoli, cashews, lean beef, couscous, grapefruit, cauliflower, avocado",0
-Melissa,162,58,Normal weight,"Tofu, brown rice, pear, bell peppers, coconut oil, salmon, whole wheat pasta, strawberries, zucchini, almond butter",1
-Kevin,183,88,Overweight,"Lean beef, whole wheat pasta, pineapple, cauliflower, avocado, turkey thigh, oats, mango, zucchini, cashews",0
-Alexa,156,53,Underweight,"Egg whites, barley, berries, cucumber, hummus, pork loin, sweet potatoes, pineapple, green beans, cashews",1
-Jason,174,73,Normal weight,"Chicken thigh, sweet potatoes, strawberries, asparagus, olive oil, lean beef, couscous, grapefruit, cauliflower, avocado",2
-Sarah,166,62,Normal weight,"Salmon, quinoa, kiwi, kale, almond butter, turkey breast, whole wheat bread, orange, spinach, almonds",1
-Brian,182,86,Overweight,"Turkey thigh, oats, mango, zucchini, cashews, tofu, brown rice, kiwi, bell peppers, coconut oil",0
-Julia,161,56,Underweight,"Tofu, whole wheat bread, raspberries, bell peppers, coconut oil, chicken thigh, quinoa, blueberries, bell peppers, olive oil",1
-Eric,178,80,Overweight,"Lean beef, brown rice, orange, broccoli, avocado, salmon, quinoa, kiwi, kale, almond butter",0
-Nicole,164,59,Normal weight,"Chicken breast, couscous, blueberries, spinach, olive oil, turkey breast, quinoa, banana, broccoli, cashews",1
-Andrew,188,92,Overweight,"Turkey breast, whole wheat pasta, strawberries, carrots, almond butter, lean beef, barley, pear, bell peppers, avocado",0
-Hannah,157,51,Underweight,"Egg whites, quinoa, banana, cucumber, hummus, pork loin, oats, apple, cucumber, hummus",1
-Michael,173,74,Normal weight,"Pork loin, barley, pear, green beans, coconut oil, tofu, brown rice, kiwi, bell peppers, coconut oil",2
-Amanda,159,54,Underweight,"Salmon, oats, apple, kale, almond butter, turkey thigh, whole wheat bread, grapefruit, cauliflower, avocado",1
-Alex,176,71,Normal weight,"Tofu, brown rice, kiwi, bell peppers, coconut oil, chicken thigh, quinoa, mango, asparagus, olive oil",2
-Rachel,167,63,Normal weight,"Chicken thigh, quinoa, mango, asparagus, olive oil, turkey breast, couscous, kiwi, cauliflower, almond butter",2
-Joshua,181,87,Overweight,"Lean beef, whole wheat bread, grapefruit, cauliflower, avocado, pork loin, oats, apple, cucumber, hummus",0
-Sophia,169,64,Normal weight,"Turkey thigh, sweet potatoes, strawberries, kale, cashews, salmon, quinoa, pear, spinach, almonds",2
-Brandon,184,89,Overweight,"Tofu, oats, pineapple, zucchini, almond butter, chicken breast, whole wheat pasta, banana, broccoli, cashews",0
-Lauren,154,49,Underweight,"Egg whites, brown rice, blueberries, carrots, hummus, salmon, quinoa, apple, kale, almond butter",1
-Christopher,178,81,Overweight,"Chicken breast, quinoa, orange, broccoli, avocado, turkey thigh, whole wheat bread, grapefruit, cauliflower, cashews",0
-Anna,165,61,Normal weight,"Salmon, whole wheat pasta, banana, spinach, olive oil, tofu, brown rice, kiwi, bell peppers, coconut oil",1
-Justin,177,77,Normal weight,"Turkey breast, couscous, kiwi, cauliflower, almond butter, pork loin, oats, apple, cucumber, hummus",2
-Stephanie,159,56,Underweight,"Pork loin, oats, apple, cucumber, hummus, salmon, brown rice, banana, kale, olive oil",1
-Timothy,186,93,Overweight,"Lean beef, barley, pear, bell peppers, avocado, chicken breast, quinoa, orange, spinach, almonds",0
-Megan,163,58,Normal weight,"Chicken thigh, quinoa, mango, asparagus, coconut oil, salmon, whole wheat pasta, strawberries, zucchini, almond butter",1
-Kyle,175,76,Normal weight,"Turkey thigh, sweet potatoes, strawberries, kale, cashews, tofu, brown rice, pear, bell peppers, coconut oil",2
-Victoria,160,57,Underweight,"Egg whites, barley, berries, cucumber, hummus, turkey breast, quinoa, apple, broccoli, almonds",1
-Benjamin,182,85,Overweight,"Tofu, oats, pineapple, zucchini, almond butter, lean beef, couscous, mango, cauliflower, cashews",0
+John,175,70,Normal weight,"Chicken breast, quinoa, apple, spinach, avocado, blueberries, broccoli, almonds, carrots, salmon",0
+Alice,160,55,Normal weight,"Salmon, brown rice, banana, kale, olive oil, strawberries, sweet potatoes, oats, pineapple, almonds",2
+Mike,180,85,Overweight,"Turkey breast, whole wheat bread, orange, broccoli, almond butter, mango, couscous, grapefruit, cauliflower, cashews",1
+Emma,165,60,Normal weight,"Tofu, barley, pear, carrots, coconut oil, kiwi, bell peppers, cucumber, oats, chicken thigh",2
+Chris,185,90,Overweight,"Lean beef, couscous, grapefruit, cauliflower, avocado, chicken breast, quinoa, apple, spinach, almonds",1
+Lisa,155,50,Underweight,"Egg whites, oats, berries, cucumber, hummus, blueberries, bananas, strawberries, spinach, almond butter",2
+Ryan,170,75,Overweight,"Pork loin, sweet potatoes, pineapple, green beans, cashews, turkey thigh, brown rice, mango, zucchini, avocado",0
+Diana,168,65,Normal weight,"Chicken thigh, quinoa, blueberries, bell peppers, olive oil, salmon, whole wheat bread, apple, kale, almond butter",0
+Matthew,177,78,Overweight,"Turkey thigh, whole wheat pasta, strawberries, zucchini, almond butter, lean beef, couscous, grapefruit, cauliflower, avocado",0
+Emily,163,57,Normal weight,"Tofu, brown rice, kiwi, asparagus, coconut oil, salmon, oats, banana, kale, almond butter",2
+David,190,95,Overweight,"Lean beef, barley, mango, broccoli, avocado, turkey breast, whole wheat bread, orange, spinach, almonds",1
+Jennifer,150,45,Underweight,"Egg whites, quinoa, raspberries, carrots, hummus, salmon, brown rice, banana, kale, olive oil",2
+Steven,172,72,Normal weight,"Chicken breast, whole wheat bread, orange, spinach, olive oil, tofu, barley, pear, carrots, coconut oil",0
+Jessica,158,52,Underweight,"Salmon, oats, apple, kale, almond butter, turkey breast, quinoa, apple, spinach, almonds",2
+Daniel,179,82,Overweight,"Turkey breast, quinoa, banana, broccoli, cashews, lean beef, couscous, grapefruit, cauliflower, avocado",1
+Melissa,162,58,Normal weight,"Tofu, brown rice, pear, bell peppers, coconut oil, salmon, whole wheat pasta, strawberries, zucchini, almond butter",2
+Kevin,183,88,Overweight,"Lean beef, whole wheat pasta, pineapple, cauliflower, avocado, turkey thigh, oats, mango, zucchini, cashews",1
+Alexa,156,53,Underweight,"Egg whites, barley, berries, cucumber, hummus, pork loin, sweet potatoes, pineapple, green beans, cashews",2
+Jason,174,73,Normal weight,"Chicken thigh, sweet potatoes, strawberries, asparagus, olive oil, lean beef, couscous, grapefruit, cauliflower, avocado",0
+Sarah,166,62,Normal weight,"Salmon, quinoa, kiwi, kale, almond butter, turkey breast, whole wheat bread, orange, spinach, almonds",2
+Brian,182,86,Overweight,"Turkey thigh, oats, mango, zucchini, cashews, tofu, brown rice, kiwi, bell peppers, coconut oil",1
+Julia,161,56,Underweight,"Tofu, whole wheat bread, raspberries, bell peppers, coconut oil, chicken thigh, quinoa, blueberries, bell peppers, olive oil",2
+Eric,178,80,Overweight,"Lean beef, brown rice, orange, broccoli, avocado, salmon, quinoa, kiwi, kale, almond butter",1
+Nicole,164,59,Normal weight,"Chicken breast, couscous, blueberries, spinach, olive oil, turkey breast, quinoa, banana, broccoli, cashews",2
+Andrew,188,92,Overweight,"Turkey breast, whole wheat pasta, strawberries, carrots, almond butter, lean beef, barley, pear, bell peppers, avocado",1
+Hannah,157,51,Underweight,"Egg whites, quinoa, banana, cucumber, hummus, pork loin, oats, apple, cucumber, hummus",2
+Michael,173,74,Normal weight,"Pork loin, barley, pear, green beans, coconut oil, tofu, brown rice, kiwi, bell peppers, coconut oil",0
+Amanda,159,54,Underweight,"Salmon, oats, apple, kale, almond butter, turkey thigh, whole wheat bread, grapefruit, cauliflower, avocado",2
+Alex,176,71,Normal weight,"Tofu, brown rice, kiwi, bell peppers, coconut oil, chicken thigh, quinoa, mango, asparagus, olive oil",0
+Rachel,167,63,Normal weight,"Chicken thigh, quinoa, mango, asparagus, olive oil, turkey breast, couscous, kiwi, cauliflower, almond butter",0
+Joshua,181,87,Overweight,"Lean beef, whole wheat bread, grapefruit, cauliflower, avocado, pork loin, oats, apple, cucumber, hummus",1
+Sophia,169,64,Normal weight,"Turkey thigh, sweet potatoes, strawberries, kale, cashews, salmon, quinoa, pear, spinach, almonds",0
+Brandon,184,89,Overweight,"Tofu, oats, pineapple, zucchini, almond butter, chicken breast, whole wheat pasta, banana, broccoli, cashews",1
+Lauren,154,49,Underweight,"Egg whites, brown rice, blueberries, carrots, hummus, salmon, quinoa, apple, kale, almond butter",2
+Christopher,178,81,Overweight,"Chicken breast, quinoa, orange, broccoli, avocado, turkey thigh, whole wheat bread, grapefruit, cauliflower, cashews",1
+Anna,165,61,Normal weight,"Salmon, whole wheat pasta, banana, spinach, olive oil, tofu, brown rice, kiwi, bell peppers, coconut oil",2
+Justin,177,77,Normal weight,"Turkey breast, couscous, kiwi, cauliflower, almond butter, pork loin, oats, apple, cucumber, hummus",0
+Stephanie,159,56,Underweight,"Pork loin, oats, apple, cucumber, hummus, salmon, brown rice, banana, kale, olive oil",2
+Timothy,186,93,Overweight,"Lean beef, barley, pear, bell peppers, avocado, chicken breast, quinoa, orange, spinach, almonds",1
+Megan,163,58,Normal weight,"Chicken thigh, quinoa, mango, asparagus, coconut oil, salmon, whole wheat pasta, strawberries, zucchini, almond butter",2
+Kyle,175,76,Normal weight,"Turkey thigh, sweet potatoes, strawberries, kale, cashews, tofu, brown rice, pear, bell peppers, coconut oil",0
+Victoria,160,57,Underweight,"Egg whites, barley, berries, cucumber, hummus, turkey breast, quinoa, apple, broccoli, almonds",2
+Benjamin,182,85,Overweight,"Tofu, oats, pineapple, zucchini, almond butter, lean beef, couscous, mango, cauliflower, cashews",1
